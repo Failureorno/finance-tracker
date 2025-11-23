@@ -1,0 +1,27 @@
+Personal-Finance-Tracker/
+│
+├── src/
+│   └── main.py                     
+│
+├── data/
+│   ├── assets.csv                  
+│   ├── liabilities.csv
+│   └── expenses.csv
+│
+├── screenshots/                    
+│   ├── 01_main_menu.png
+│   ├── 02_add_asset.png
+│   ├── 03_add_expense.png
+│   ├── 04_report.png
+│   └── ...
+│
+├── recordings/
+│   └── demo_recording.mp4          
+│
+├── REPORT.pdf                    
+│
+├── README.md                       
+│
+└── .gitignore
+    __pycache__/
+    *.csv
